@@ -60,7 +60,7 @@ public class MainSum {
         str2.setBounds(210,40,170,35);
         str2.setFont(font1);
         sum.setBounds(20,120,120,30);
-        sum.setFont(font2);33
+        sum.setFont(font2);
         clear.setBounds(150,120,100,30);
         clear.setFont(font2);
         add.setBounds(260,120,120,30);
