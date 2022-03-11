@@ -35,7 +35,7 @@ public class MainSum {
         lastName = new JLabel("Last  String : ");
         sum = new JButton("sum String");
         clear = new JButton(" clear ");
-        add = new JButton(" add ");
+        add = new JButton(" add "); ///   Add to output window
         dark = new JButton("dark mood");
         language = new JButton("English");
         main.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
